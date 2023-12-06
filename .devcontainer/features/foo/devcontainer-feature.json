@@ -1,0 +1,6 @@
+{
+    "id": "foo",
+    "name": "Foo",
+    "version": "0.0.1",
+    "postCreateCommand": "echo \"$MY_CODESPACE_SECRET\" > foo.txt"
+}
